@@ -1,4 +1,4 @@
-// Function node to parse VE.Direct data received from Node-RED serial node
+// Function node to parse VE.Direct data received from Node-RED serial node 
 
 // Input: msg.payload contains the array of bytes
 let data = msg.payload;
